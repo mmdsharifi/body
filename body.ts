@@ -1,10 +1,10 @@
 class body {
     
     private head : Head;
-    private tounge : Tounge;
+    private tongue : Tongue;
     
     public cutHead () : Head | null {
-        return ( (this.head.isGreen() && this.tounge.isRed() ) ? this.head.cut() : null)
+        return this.head.isGreen() && this.tongue.isRed() ? this.head.cut() : null
     }
 
 }
@@ -15,7 +15,7 @@ interface Head {
     cut()
 }
 
-interface Tounge {
+interface Tongue {
     isRed() ,
     color: string;
 }
