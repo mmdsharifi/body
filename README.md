@@ -11,4 +11,5 @@ This story began [here in Twitter](https://twitter.com/mamal72/status/8203395400
 | [Go](https://github.com/arastu/body/) |
 | [Python](https://github.com/ShalbafZadeh/body) |
 | [Ruby](https://github.com/prp-e/body) |
-| [Javacript](https://github.com/mamal72/body) |
+| [JavaScript](https://github.com/mamal72/body) |
+| [LESS](https://github.com/javid-izadfar/body) |
